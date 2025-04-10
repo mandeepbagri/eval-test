@@ -1,0 +1,7 @@
+Accuracy:
+{
+  "brand_accuracy": 0.54,
+  "country_accuracy": 0.67,
+  "total_evaluated": 1000,
+  "number_of_errors": 20
+}

@@ -40,12 +40,12 @@ This is a pairing exercise; ask for help, talk through your thinking, feel free 
 ```json 
 [
   {
-    "id": "1",
+    "id": "2",
     "brands": "Pepsi, Coca-Cola",
     "countries": "USA"
   },
   {
-    "id": "2",
+    "id": "1",
     "brands": "Nike",
     "countries": "USA"
   }

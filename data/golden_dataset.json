@@ -1,0 +1,519 @@
+[
+  {
+    "id": 1,
+    "query": "Insights on Adidas and Samsung in India and Japan.",
+    "expected_brands": [
+      "adidas",
+      "samsung"
+    ],
+    "expected_countries": [
+      "india",
+      "japan  "
+    ]
+  },
+  {
+    "id": 2,
+    "query": "Insights on Dove and Apple in various countries.",
+    "expected_brands": [
+      "Dove",
+      "Apple"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 3,
+    "query": "Insights on Dove in various countries.",
+    "expected_brands": [
+      "Dove"
+    ],
+    "expected_countries": [
+      "India"
+    ]
+  },
+  {
+    "id": 4,
+    "query": "Insights on LG and Apple in Spain and UK.",
+    "expected_brands": [
+      "LG",
+      "Apple"
+    ],
+    "expected_countries": [
+      "Spain",
+      "UK"
+    ]
+  },
+  {
+    "id": 5,
+    "query": "Insights on brands in France.",
+    "expected_brands": [],
+    "expected_countries": [
+      "France"
+    ]
+  },
+  {
+    "id": 6,
+    "query": "Insights on Nike in Spain.",
+    "expected_brands": [
+      "Nike"
+    ],
+    "expected_countries": [
+      "Spain"
+    ]
+  },
+  {
+    "id": 7,
+    "query": "Insights on Xiaomi in Brazil and Canada.",
+    "expected_brands": [
+      "xiaomi"
+    ],
+    "expected_countries": [
+      "Brazil",
+      "canada"
+    ]
+  },
+  {
+    "id": 8,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 9,
+    "query": "Insights on Dell in UK and Germany.",
+    "expected_brands": [
+      "Dell"
+    ],
+    "expected_countries": [
+      "UK",
+      "germany"
+    ]
+  },
+  {
+    "id": 10,
+    "query": "Insights on HP and Nike and Apple in various countries.",
+    "expected_brands": [
+      "HP",
+      "Nike",
+      "Apple"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 11,
+    "query": "Insights on Sony and Apple and Nike in Germany.",
+    "expected_brands": [
+      "Sony",
+      "Apple",
+      "Nike",
+      "HP"
+    ],
+    "expected_countries": [
+      "Germany"
+    ]
+  },
+  {
+    "id": 12,
+    "query": "Insights on Xiaomi in China.",
+    "expected_brands": [
+      "Xiaomi"
+    ],
+    "expected_countries": [
+      "China"
+    ]
+  },
+  {
+    "id": 13,
+    "query": "Insights on Apple in France and India.",
+    "expected_brands": [
+      "Apple"
+    ],
+    "expected_countries": [
+      "France",
+      "India"
+    ]
+  },
+  {
+    "id": 14,
+    "query": "Insights on brands in China and India.",
+    "expected_brands": [
+      "Dove"
+    ],
+    "expected_countries": [
+      "China",
+      "India"
+    ]
+  },
+  {
+    "id": 15,
+    "query": "Insights on Apple and HP in various countries.",
+    "expected_brands": [
+      "Apple",
+      "HP",
+      "Dell"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 16,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": []
+  },
+  {
+    "id": 17,
+    "query": "Insights on brands in France and Canada.",
+    "expected_brands": [
+      "LG"
+    ],
+    "expected_countries": [
+      "France",
+      "Canada"
+    ]
+  },
+  {
+    "id": 18,
+    "query": "Insights on Apple and Dove and HP in Spain.",
+    "expected_brands": [
+      "Apple   ",
+      "Dove",
+      "HP"
+    ],
+    "expected_countries": [
+      "Spain",
+      "Canada"
+    ]
+  },
+  {
+    "id": 19,
+    "query": "Insights on Dell and Adidas and Apple in various countries.",
+    "expected_brands": [
+      "Dell",
+      "adidas",
+      "Apple",
+      "HP  "
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 20,
+    "query": "Insights on Apple and LG and Adidas in India.",
+    "expected_brands": [
+      "Apple",
+      "LG",
+      "Adidas"
+    ],
+    "expected_countries": [
+      "India"
+    ]
+  },
+  {
+    "id": 21,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": []
+  },
+  {
+    "id": 22,
+    "query": "Insights on brands in Brazil and France.",
+    "expected_brands": [],
+    "expected_countries": [
+      "Brazil",
+      "France"
+    ]
+  },
+  {
+    "id": 23,
+    "query": "Insights on brands in France and Brazil.",
+    "expected_brands": [],
+    "expected_countries": [
+      "France",
+      "Brazil   "
+    ]
+  },
+  {
+    "id": 24,
+    "query": "Insights on Nike and Sony and Dove in various countries.",
+    "expected_brands": [
+      "nike    ",
+      "Sony",
+      "Dove"
+    ],
+    "expected_countries": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 25,
+    "query": "Insights on Samsung and Dell in Australia.",
+    "expected_brands": [
+      "Samsung",
+      "Dell"
+    ],
+    "expected_countries": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 26,
+    "query": "Insights on Adidas in France.",
+    "expected_brands": [
+      "Adidas"
+    ],
+    "expected_countries": [
+      "France",
+      "spain"
+    ]
+  },
+  {
+    "id": 27,
+    "query": "Insights on brands in Australia.",
+    "expected_brands": [],
+    "expected_countries": [
+      "australia    "
+    ]
+  },
+  {
+    "id": 28,
+    "query": "Insights on Dell and Samsung and Adidas in China.",
+    "expected_brands": [
+      "Dell",
+      "Samsung",
+      "Adidas"
+    ],
+    "expected_countries": [
+      "China"
+    ]
+  },
+  {
+    "id": 29,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": []
+  },
+  {
+    "id": 30,
+    "query": "Insights on Sony and Dell and Nike in Australia.",
+    "expected_brands": [
+      "Sony",
+      "Dell",
+      "Nike"
+    ],
+    "expected_countries": [
+      "Australia"
+    ]
+  },
+  {
+    "id": 31,
+    "query": "Insights on Adidas in various countries.",
+    "expected_brands": [
+      "Adidas"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 32,
+    "query": "Insights on Adidas and Dove in France and Canada.",
+    "expected_brands": [
+      "Adidas",
+      "Dove",
+      "Xiaomi"
+    ],
+    "expected_countries": [
+      "France",
+      "Canada"
+    ]
+  },
+  {
+    "id": 33,
+    "query": "Insights on Nike and HP and LG in USA.",
+    "expected_brands": [
+      "Nike",
+      "HP",
+      "LG"
+    ],
+    "expected_countries": [
+      "USA"
+    ]
+  },
+  {
+    "id": 34,
+    "query": "Insights on Apple and Nike and Dove in various countries.",
+    "expected_brands": [
+      "Apple",
+      "Nike",
+      "Dove"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 35,
+    "query": "Insights on Apple and HP in China.",
+    "expected_brands": [
+      "Apple",
+      "HP"
+    ],
+    "expected_countries": [
+      "China"
+    ]
+  },
+  {
+    "id": 36,
+    "query": "Insights on Dove and Xiaomi in Japan.",
+    "expected_brands": [
+      "Dove",
+      "Xiaomi"
+    ],
+    "expected_countries": [
+      "Japan"
+    ]
+  },
+  {
+    "id": 37,
+    "query": "Insights on LG and Sony in various countries.",
+    "expected_brands": [
+      "LG",
+      "Sony"
+    ],
+    "expected_countries": []
+  },
+  {
+    "id": 38,
+    "query": "Insights on Adidas in China and Germany.",
+    "expected_brands": [
+      "Adidas"
+    ],
+    "expected_countries": [
+      "China",
+      "Germany"
+    ]
+  },
+  {
+    "id": 39,
+    "query": "Insights on Adidas and Sony in various countries.",
+    "expected_brands": [
+      "Adidas",
+      "Sony",
+      "Dove"
+    ],
+    "expected_countries": [
+      "Canada"
+    ]
+  },
+  {
+    "id": 40,
+    "query": "Insights on Dove in China and UK.",
+    "expected_brands": [
+      "Dove",
+      "Dell"
+    ],
+    "expected_countries": [
+      "China",
+      "UK"
+    ]
+  },
+  {
+    "id": 41,
+    "query": "Insights on Adidas in UK.",
+    "expected_brands": [
+      "Adidas"
+    ],
+    "expected_countries": [
+      "UK",
+      "Australia"
+    ]
+  },
+  {
+    "id": 42,
+    "query": "Insights on Adidas and Samsung in France.",
+    "expected_brands": [
+      "Adidas",
+      "Samsung"
+    ],
+    "expected_countries": [
+      "France"
+    ]
+  },
+  {
+    "id": 43,
+    "query": "Insights on brands in Japan.",
+    "expected_brands": [
+      "Apple"
+    ],
+    "expected_countries": [
+      "Japan"
+    ]
+  },
+  {
+    "id": 44,
+    "query": "Insights on Apple in Spain.",
+    "expected_brands": [
+      "Apple"
+    ],
+    "expected_countries": [
+      "Spain"
+    ]
+  },
+  {
+    "id": 45,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": []
+  },
+  {
+    "id": 46,
+    "query": "Insights on HP and Dell in Brazil and Spain.",
+    "expected_brands": [
+      "HP",
+      "Dell"
+    ],
+    "expected_countries": [
+      "Brazil",
+      "Spain"
+    ]
+  },
+  {
+    "id": 47,
+    "query": "Insights on Nike and Sony in Spain.",
+    "expected_brands": [
+      "Nike",
+      "Sony"
+    ],
+    "expected_countries": [
+      "Spain"
+    ]
+  },
+  {
+    "id": 48,
+    "query": "Insights on brands in various countries.",
+    "expected_brands": [],
+    "expected_countries": []
+  },
+  {
+    "id": 49,
+    "query": "Insights on Nike and LG and Dove in France.",
+    "expected_brands": [
+      "Nike",
+      "LG",
+      "Dove"
+    ],
+    "expected_countries": [
+      "France"
+    ]
+  },
+  {
+    "id": 50,
+    "query": "Insights on LG and Nike and Samsung in Germany and UK.",
+    "expected_brands": [
+      "LG",
+      "Nike",
+      "Samsung"
+    ],
+    "expected_countries": [
+      "Germany",
+      "UK",
+      "Canada"
+    ]
+  }
+]
